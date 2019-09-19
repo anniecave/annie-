@@ -1,0 +1,38 @@
+.title {
+	color: white;
+	background: blue;
+}
+
+li:hover {
+	background-color: blue;
+	color:white;
+}
+
+a {
+	color:black;
+}
+
+.main {
+	color:white;
+	background-color:blue;
+}
+
+h3 {
+		color:white;
+	background-color:blue;
+}
+
+div p {
+	background:grey;
+}
+
+@media screen and (max-width: 600px) {
+  li a {
+    float: none;
+    width: 100%;
+  }
+}
+
+div a {
+	color:white;
+}
